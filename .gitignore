@@ -6,8 +6,11 @@
 /out-tsc
 /bazel-out
 
+package-lock.json
+
 # Node
 /node_modules
+/.vscode
 npm-debug.log
 yarn-error.log
 
